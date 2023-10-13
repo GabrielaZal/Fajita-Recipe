@@ -5,4 +5,9 @@
 
 
 
-<head>Spicy Chicken Fajitas</title>
+<title>Spicy Chicken Fajitas</title>
+</head>
+<body>
+
+<!--BANNER-->
+<div class="container-fluid p-5 text-white text-center" style="background-image: linear-gradient(to right,red, yellow);
