@@ -11,3 +11,11 @@
 
 <!--BANNER-->
 <div class="container-fluid p-5 text-white text-center" style="background-image: linear-gradient(to right,red, yellow);
+<h1>Spicy Chicken Fajitas</h1>
+<p>Quick and Easy Recipe, Delicious Dinner for all ages!</p>
+</div>
+
+<!--MAIN CONTENT-->
+<div class="container mt-5">
+
+<h2> About the Dish </h2>
